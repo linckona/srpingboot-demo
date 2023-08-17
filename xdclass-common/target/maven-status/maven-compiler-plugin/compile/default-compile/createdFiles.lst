@@ -1,0 +1,4 @@
+net\comeriver\domain\Video.class
+net\comeriver\domain\User.class
+net\comeriver\util\JsonData.class
+net\comeriver\domain\VideoOrder.class
